@@ -28,6 +28,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify han
 mnist-cnn-digit-classifier/
 │
 ├── handwritten_digits_recognition.py   # Main training and evaluation script
+├── mnist_cnn_model.keras               # Saved model file
 ├── requirements.txt                    # Dependencies
 ├── .gitignore                          # Ignored files and folders
 └── README.md                           # This file
